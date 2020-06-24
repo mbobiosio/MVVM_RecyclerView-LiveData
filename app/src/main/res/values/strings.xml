@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM RecyclerView - LiveData</string>
+    <string name="copyright">\u00a9 2020 Mbuodile Obiosio. All rights reserved</string>
+    <string name="welcome">Hi, Welcome</string>
+</resources>
